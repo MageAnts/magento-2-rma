@@ -2,11 +2,11 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 RMA Extension</h2>
+				<h1>Magento 2 RMA Extension</h1>
 				<p><strong><a href="https://www.mageants.com/rma-extension-for-magento-2.html">Magento 2 RMA Extension</a></strong> allows customers to return their products from which they are not satisfied. It helps in managing all the customer's return requests. This is one of the effective e-com features of the stores.</p>
 				<p>Magento 2 RMA Plugin helps both customers and store owners by providing features of returning the product.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Helps in setting up several conditions for making return requests.</li>
 						<li>Admin and customers are allowed to comment on the return request.</li>
